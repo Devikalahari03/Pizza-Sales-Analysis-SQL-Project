@@ -1,5 +1,10 @@
 # PIZZA SALES ANALYSIS SQL PROJECT
 
+
+![Uploading image.png…]()
+
+
+
 # Objective 
 The objective of this project is to analyze pizza sales data to identify trends and provide actionable insights that can help to increase sales and aim to uncover key metrics and patterns 
 within the sales data by leveraging SQL queries in MySQL.
