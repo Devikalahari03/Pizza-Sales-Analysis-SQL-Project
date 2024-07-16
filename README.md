@@ -1,7 +1,7 @@
 # PIZZA SALES ANALYSIS SQL PROJECT
 
+![image](https://github.com/user-attachments/assets/643dcb2f-d8f4-402c-819d-3b9870b6a067)
 
-![Uploading image.png…]()
 
 
 
